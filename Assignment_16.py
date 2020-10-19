@@ -1,6 +1,7 @@
 """1. Accept number of rows and number of columns from user and display  below pattern.
 Input : iRow = 4 iCol = 4
-Output : 1 2 3 4
+Output :
+ 1 2 3 4
  5 6 7 8
  9 1 2 3
  4 5 6 7
@@ -22,7 +23,8 @@ obj.prog1(row,col)
 
 2. Accept number of rows and number of columns from user and display  below pattern.
 Input : iRow = 4 iCol = 4
-Output : 2 4 6 8 10
+Output :
+ 2 4 6 8 10
  1 3 5 7 9
  2 4 6 8 10
  1 3 5 7 9
@@ -47,7 +49,8 @@ obj.prog2(row,col)
 
 3. Accept number of rows and number of columns from user and display  below pattern.
 Input : iRow = 5 iCol = 5
-Output : a b c d e
+Output :
+ a b c d e
  1 2 3 4 5
  a b c d e
  1 2 3 4 5
@@ -73,7 +76,8 @@ obj.prog3(row,col)
 
 4. Accept number of rows and number of columns from user and display  below pattern.
 Input : iRow = 5 iCol = 5
-Output : 1 2 3 4 5
+Output :
+ 1 2 3 4 5
  -1 -2 -3 -4 -5
  1 2 3 4 5
  -1 -2 -3 -4 -5
@@ -99,7 +103,8 @@ obj.prog4(row,col)
 
 5. Accept number of rows and number of columns from user and display  below pattern.
 Input : iRow = 4 iCol = 4
-Output : 1 2 3 4
+Output :
+ 1 2 3 4
  2 3 4 5
  3 4 5 6
  4 5 6 7
